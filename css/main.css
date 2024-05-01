@@ -1,0 +1,257 @@
+.variety-description-title {
+    font-weight: 300;
+    font-size: 24px;
+    color: #5C5762;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.variety {
+    font-weight: 700;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px 10%;
+}
+
+.variety-description p {
+    font-weight: 400;
+    font-size: 14px;
+    color: #9A7AA0;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.second-title {
+    margin-top: 100px;
+}
+
+.wrapper-news {
+    display: flex;
+    font-weight: 800;
+    font-size: 12px;
+    width: 240px;
+}
+
+.news {
+    color: #FFFFFF;
+    width: 50%;
+    padding: 7px 0;
+    background-color: #8D94BA;
+    text-align: center;
+}
+
+.free-shipping {
+    color: #FFFFFF;
+    width: 50%;
+    padding: 7px 0;
+    background-color: #542D84;
+    text-align: center;
+}
+
+.complete {
+    width: 100%;
+}
+
+.jewel-name {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #9A7AA0;
+    margin-top: 15px;
+    width: 240px;
+}
+
+.jewel-description {
+    font-weight: 400;
+    font-size: 14px;
+    color: #9A7AA0;
+    text-align: center;
+    text-transform: none;
+    margin-top: 15px;
+}
+
+.jewel-description span {
+    font-weight: 700;
+}
+
+.jewel-price {
+    font-weight: 700;
+    font-size: 24px;
+    color: #8D94BA;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.last-price {
+    margin-top: 41px;
+}
+
+.button-buy {
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+    width: 240px;
+    border-radius: 50px;
+    padding: 10px;
+    background-color: #749497;
+    border: none;
+    cursor: pointer;
+}
+
+.wrapper-presentation-text {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.presentation-text {
+    font-weight: 400;
+    text-align: center;
+}
+
+.presentation-title {
+    font-size: 18px;
+    color: #9A7AA0;
+}
+
+.for-you {
+    margin-top: 10px;
+    font-size: 42px;
+    color: #8D94BA;
+}
+
+.lorem-ipsum {
+    font-size: 20px;
+    margin-top: 20px;
+    text-transform: none;
+    color: #9A7AA0;
+    width: 65%;
+}
+
+.know-more  {
+    border-radius: 10px;
+    margin-top: 30px;
+    padding: 10px 30px;
+    border: 1px solid #8D94BA;
+    font-size: 14px;
+    background-color: #FFFFFF;
+    color: #8D94BA;
+    cursor: pointer;
+}
+
+.know-more:hover {
+    background-color: #8D94BA;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+.wrapper-emphasis {
+    height: 274px;
+    background-color: #B4EDD2;
+}
+
+.emphasis-title {
+    padding-top: 20px;
+    margin-left: 10%;
+    font-weight: 700;
+    font-size: 26px;
+    color: #3D4F46;
+}
+
+.emphasis-text {
+    font-size: 18px;
+    color: #3D4F46;
+    margin-top: 10px;
+    margin-left: 10%;
+}
+
+.wrapper-earring {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -150px;
+    width: 100%;
+}
+
+.earring-picture{
+    max-width: 100%;
+    max-height: auto;
+}
+
+.wrapper-jewel-min {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    margin-top: 25px;
+}
+
+.text-color {
+    font-size: 16px;
+    padding-top: 30px;
+    width: 65%;
+}
+
+.wrapper-origin-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.line {
+    height: 1px;
+    background-color: #8A6C8F;
+    opacity: 0.1;
+}
+
+.follow-title {
+    font-weight: 400;
+    font-size: 20px;
+    color: #5C5762;
+}
+
+.follow-title {
+    font-size: 16px;
+    font-weight: 400;
+    color: #9A7AA0;
+    width: 60%;
+    margin-top: 20px;
+}
+
+.hashtag {
+    font-size: 16px;
+    font-weight: 300;
+    color: #9A7AA0;
+    margin-top: 10px;
+}
+
+.wrapper-social-media {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    justify-content: space-evenly;
+}
+
+.social-media {
+    font-size: 16px;
+    color: #9A7AA0;
+    white-space: nowrap;
+}
+
+.send-below {
+    background-color: white;
+    margin-top: 30px;
+}
+
+.send-below h2 {
+    color: #9A7AA0;
+}
+
+.send-below p {
+    color: #9A7AA0;
+}
